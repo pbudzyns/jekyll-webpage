@@ -2,96 +2,159 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Pawel Budzynski
+    # - name: Date of Birth
+    #   value: 19th April 1994
     - name: Languages
-      value: English, German
+      value: English, Polish, French, Russian
+    - name: Professional interests
+      value: Python, Deep Learning, 3D Graphics, Embedded ML. 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Data Science
+      institution: Université Paris-Saclay, Paris, France.
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Course in Artificial Intelligence with specialization in NLP.
+        - Worked with Transformers, LSTM, CNNs and generative models.
+        - Accomplished projects for signal processing, computer vision, NLP, reinforcement learning.
+
+    - title: M.S. in Data Science
+      institution: Eindhoven University of Technology, Eindhoven, the Netherlands.
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Course in Data Science in Engineering.
+        - Accomplished projects for data engineering, applied statistics, machine learning.
+
+    - title: B.S. in Applied Mathematics
+      institution: Wroclaw University of Technology, Wroclaw, Poland.
+      year: 2019
+      description:
+        - Linear algebra, probability theory, statistics, mathematical analysis, numerical methods.
+
+    - title: Student Exchange
+      institution: ITMO University, St Petersburg, Russia.
+      year: 2018
+      description:
+        - High performance computing, computer vision, machine learning, urban simulations.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Master Thesis Internship - Deep Learning in anomaly detection
+      institution: European Space Agency, Darmstadt, Germany.
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Researched deep neural architectures for anomaly detection in multivariate time series of telemetry data coming from satelites.
+        - Deployed Complex Event Processing system for deterministic streaming data analysis. 
+
+
+    - title: Software Engineer Student
+      institution: CERN, Geneva, Switzerland.
+      year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Developed Python applications and libraries for accelerator control. 
+        - Improved CI pipelines with advanced features.
+        - Implemented experimental refactoring tool for large codebase migration.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Teaching Assistant
+      institution: Eindhoven University of Technology, Eindhoven, the Netherlands.
+      year: 2020
       description:
+        - Tutored 2 groups of bachelor students during a course of android application development.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Software Engineer
+      institution: NOKIA, Wroclaw, Poland.
+      year: 2018-2019
+      description:
+        - Worked with a team of 7 developers to deliver NLP based tool for technical document classification. 
+        - Developed software for data collection and cleaning. 
 
-- title: Open Source Projects
+    - title: Working Student
+      institution: NOKIA, Wroclaw, Poland.
+      year: 2016-2018
+      description:
+        - Implemented Python scripts for test automation.
+
+- title: Open Source Contributions
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/pbudzyns/ad_toolkit">Deep Learning for anomaly detection</a>
+      year: 2022
+      description: Authored Python library with deep learning models and toy datasets for anomaly detection.
+
+    - title: <a href="https://github.com/sphinx-doc/sphinx">Sphinx</a>
+      year: 2021
+      description: Two accepted PRs with new features for widely-used Python library for documentation generation.
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Winning team in Blockchain hackathon in Madrid.
+        - Winning team in business challenge course at TU/e.
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - EIT Digital Master School Scholarship. 
+    - year: 2018
+      items:
+        - Department's scholarship for best students. 
+        - Funding for semestral exchange.
+
+- title: Extracurricular Activities
+  type: time_table
+  contents:
+    - title: 59th Graduate Study Programme - UN Geneva
+      year: 2021
+      description: >
+        Participated in summer program at UN Geneva where 100+ individuals from the entire world 
+        met to take part in workshops and lectures. Wrote an essay about missinformation that 
+        can be found in the <a href="https://www.ungeneva.org/sites/default/files/2021-07/2021-GSP-Report.pdf">published report</a>.
+    
+    - title: Online Python Mentor at Exercism.io
+      year: 2021
+      description: >
+        Gave feedback to 100+ students of Python track at <a href="https://exercism.org/">Exercism</a> non-profit educational project.
+
+    - title: Disruptive Finance with Digital Technologies
+      year: 2020
+      description: >
+        EIT Digital Summer School at Universidad Politécnica de Madrid (UPM).
+
+    - title: EIT-Climate Journey
+      year: 2020
+      description: >
+        4 week long summer school for environmental action, worked on system innovation plan for sustainable finance.
+
+    - title: BEST Aveiro - Big Data Summer Course
+      year: 2018
+      description: >
+        Participated in 2 week summer course in Aveiro, Potrugal.
+
+    - title: BEST Grenoble - Machine Learning Spring Course
+      year: 2017
+      description: >
+        Participated in 2 week spring course in Grenoble, France.
+
+    - title: Financial Coordinator at TEDx Politechnika Wroclawska
+      year: 2016
+      description: >
+        Organized funding and barter cooperations for local TEDx conference.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - 3D content creation.
+        - Large Langugage Models.
+        - TinyML.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Literature, Music, Photography, Computer Games, History, Middle East.
