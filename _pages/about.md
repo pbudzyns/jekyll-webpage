@@ -22,4 +22,4 @@ Welcome to my website! I'm Pawel, deep learning engineer with programming experi
 
 I am alumni of an awesome double degree Master program - [EIT Digital Master School](https://masterschool.eitdigital.eu/), that offers scholarship for technical studies with minor degree in Entrepreneurship & Innovations. I have completed my degree at [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) and [Eindhoven University of Technology](https://www.tue.nl/en/). I also hold a Bachelor degree in Applied Mathematics obtained at [Wroclaw University of Technology](https://pwr.edu.pl/en/).
 
-During my breaks from coding I like to travel (35 countries visited so far, lived in 5), read books and [take pictures with my Nikon](https://pbudzyns.tumblr.com/).
+During my breaks from coding I like to travel (35 countries visited so far, lived in 5), [compose messy playlists](https://open.spotify.com/user/1197831799), [read books](https://www.goodreads.com/pbudzyns) and [take pictures with my Nikon](https://pbudzyns.tumblr.com/).
