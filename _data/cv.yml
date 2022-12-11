@@ -8,7 +8,7 @@
     - name: Languages
       value: English, Polish, French, Russian
     - name: Professional interests
-      value: Python, Deep Learning, 3D Graphics, Embedded ML. 
+      value: Python, Deep Learning, 3D Graphics, Embedded ML
 
 - title: Education
   type: time_table
